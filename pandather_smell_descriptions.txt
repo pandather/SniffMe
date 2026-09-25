@@ -1,0 +1,63 @@
+Winter
+SMELLS LIKE: breathing in cold air that lines your lungs, notes of cool mint, ozone, and watery melon
+USE IN GAMES: winter ambience, cooling effect, alertness
+
+Barnyard
+SMELLS LIKE: warm hay, farm animals, hint of "fresh country air" (fertilizer but in a good way)
+USE IN GAMES: develop association between animals and scent, add scent to animal interactions, ambient when player is near hay or a barn
+
+Sweet
+SMELLS LIKE: a freshly baked chocolate chip cookie. Creamy sweetness with notes of vanilla and chocolate.
+USE IN GAMES: reward cue, cooking games, nearby sweet treats
+
+Floral
+SMELLS LIKE: wandering through a flower garden, catching wafts of different blooms
+USE IN GAMES: picking flowers, ambient springtime, nearby flowers, use when flowers are in the room within 10 feet of player.
+
+Beach
+SMELLS LIKE: relaxing in the sand, with hints of sunscreen and coconut, evokes beach memories
+USE IN GAMES: happiness and relaxation, pleasant scent that people enjoy; could be used as a specific player scent, ambient when near a beach, air freshner for normal indoors smell
+
+Kindred
+SMELLS LIKE: the warmth of human connection, touched by gentle notes of baby powder and soothing lavender
+USE IN GAMES: provide a homey feel, sense of connection between players, friendship, and comfort, use during npc interactions
+
+Petrichor
+SMELLS LIKE: grey skies before a storm, rain hitting pavement, the scent of drenched hot city streets
+USE IN GAMES: immersion, could due future rainstorm, when raining
+
+Marine
+SMELLS LIKE: ocean spray and seaweed tangled in coastal vegetation, with a trace of weathered driftwood
+USE IN GAMES: ambient scent for being underwater, cue for ocean, balance to Beach scent, when next to the ocean
+
+Evergreen
+SMELLS LIKE: exploring deep forests, with notes of pine trees, and lush greenery
+USE IN GAMES: ambience for forest environments and exploration, and for grassy environments and nearby shrubs and ferns.
+
+Terra Silva
+SMELLS LIKE: fresh dirt, earthy minerals, wet moss. the cold deep forest rivers with rocks, plants growing, hints of carrot
+USE IN GAMES: ambient scent for farming, used for plating crops (tilling), interactive scent when digging, ambient for when it's damp outside or near a river
+
+Citrus
+SMELLS LIKE: fresh citrus from a tree, bright, ripe, zesty, elements of lemon, orange, mandarin, grapefruit
+USE IN GAMES: picking fruits, relate to energy levels of characters, cooking games, mobile fruit games, ambient for when near fruits
+
+Desert
+SMELLS LIKE: dry, herbal, desert heat, and sand
+USE IN GAMES: provide ambient desert scent to increase immersion, smell of sandworms on the map, or in sand or sandtraps
+
+Savory Spice
+SMELLS LIKE: a medlet of spices for savory dishes (e.g. coriander, ginger, black pepper, paprika)
+USE IN GAMES: use in cooking games, cue that food is done cooking, creating ambient scent for nearby food
+
+Timber
+SMELLS LIKE: dried wood, entering a lumber yard, notes of sandalwood, and cedarwood
+USE IN GAMES: interactive scent for chopping down trees, ambient scent for log cabins, ambient for when standing directly next to a tree. if the player is standing next to wood, plywood, wooden crates, use this.
+
+Smoky
+SMELLS LIKE: the crackling of a campfire, creosote, cadewood
+USE IN GAMES: interactive with lighting fires, cue other people are nearby in the dark woods, scent for things burning that are not food, ambient for when user is firing firearms, tire smoke in in the air, or other smoke
+
+Machina
+SMELLS LIKE: diesel fuel, industrial parts of cities, slightly sulfurous, evokes love/hate of smelling "sharpies"
+USE IN GAMES: create ambience, warn of danger, game mechanics with machines. Fouler smell, don't overuse. Only for things like dingy street alleys in a city, or for while in a vehicle.

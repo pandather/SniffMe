@@ -1,0 +1,4 @@
+recent_scents*.jsonl
+__pycache__/
+frames_*/
+cartridges.json
